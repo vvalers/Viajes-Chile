@@ -1,0 +1,37 @@
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: black;
+    color: white;
+}
+.header {
+    background-color: transparent !important;
+    position: fixed;
+  }
+.carrusel {
+    background-size: cover;
+    min-height: 100vh;
+    
+  }
+
+.icons {
+    background-color: rgb(64, 201, 232);
+}
+
+.destacados {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.card-body {
+    background: rgb(64, 201, 232);
+}
+
+.viajes {
+    font-size: x-large;
+    justify-content: flex-start;
+}
+.col-md-8 {
+    justify-content: flex-end;
+    display: flex;
+}
