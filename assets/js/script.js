@@ -35,14 +35,11 @@ $(document).ready(function(){
   function myFunction() {
     alert("¡Hola! Somos la mejor paginas de viaje!");
   }
-
-/* cambio color  */
-
+  
   function titulo2(){
     console.log('CONTACTO----........');
     var elementoCONTACTO = document.getElementById('titulo2');
     console.log(elementoCONTACTO);
     elementoCONTACTO.style.color = 'PINK';
-    // console.log('Ingrediente');
-    // elemnto.style.color = 'red';
+
   }
