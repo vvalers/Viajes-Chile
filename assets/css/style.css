@@ -3,6 +3,8 @@ body{
     font-family: "Open Sans", sans-serif;
     background-color: black;
     color: white;
+    scroll-behavior: smooth;
+
 }
 .header {
     background-color: transparent !important;
