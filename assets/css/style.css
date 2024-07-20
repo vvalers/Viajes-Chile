@@ -10,8 +10,11 @@ body{
 }
 .header {
     background-color: transparent !important;
-    position: fixed;
-  }
+}
+
+hr {
+    background-color: white;
+}
 
 .icons {
     background-color: rgb(64, 201, 232);
