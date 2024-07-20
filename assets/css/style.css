@@ -8,11 +8,6 @@ body{
     background-color: transparent !important;
     position: fixed;
   }
-.carrusel {
-    background-size: cover;
-    min-height: 100vh;
-    
-  }
 
 .icons {
     background-color: rgb(64, 201, 232);
